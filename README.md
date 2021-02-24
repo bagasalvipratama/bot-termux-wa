@@ -30,8 +30,10 @@ Script ini di modifikasi sama saya sendiri Bagas.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > Trus lo download dulu file nya ya tod
+<p align="center">
 <img src=https://i.ibb.co/dgXGMHw/5bcb034bfa00.jpg" width="230" height="230"/>
 </p>
+<br>
 > ketik cd /sdcard
 > cd nama file yg lo download
 > bash install.sh
