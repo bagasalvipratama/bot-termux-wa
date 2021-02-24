@@ -7,7 +7,7 @@
 ### Thanks For Mhankbarbar
 
 ### WARNING
-MAU RE-UPLOAD SCRIPT? KASIH NAMA SAYA BAGAS
+MAU RE-UPLOAD SCRIPT? KASIH NAMA GUA LAH TOT
 
 ## NOTE:> 
 SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
@@ -26,7 +26,7 @@ Siapin alat dan bahannya.
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-Script ini di modifikasi sama saya sendiri Bagas.
+Script ini di modifikasi sama gua sendiri tot.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > Trus lo download dulu file nya ya tod
