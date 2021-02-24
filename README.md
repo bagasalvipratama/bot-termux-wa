@@ -4,7 +4,7 @@
 </p>
 <br>
 
-### Thanks For Bagas
+### Thanks For Mhankbarbar
 
 ### WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA SAYA BAGAS
