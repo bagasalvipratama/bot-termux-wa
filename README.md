@@ -29,7 +29,7 @@ Siapin alat dan bahannya.
 Script ini di modifikasi sama gua sendiri tot.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
-> Trus lo download dulu file nya ya tod
+> Terus lo download dulu file nya ya tod
 > ketik cd /sdcard
 > cd nama file yg lo download
 > bash install.sh
