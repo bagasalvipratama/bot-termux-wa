@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Ramlan
 <p align="center">
-<img src="https://raw.githubusercontent.com/Ramlan666/babybot/main/assets/R4ML4N.jpg" width="230" height="230"/>
+<img src=https://i.ibb.co/znhF2H7/cdff156bd7ae.jpg" width="230" height="230"/>
 </p>
 <br>
 
