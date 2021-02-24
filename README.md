@@ -41,6 +41,40 @@ Kalo lo masih kaga ngerti chat gua aja,nomor gua ada di bawah ye
 
 Ket: Aktiv 24 jam
 
+## Features
+
+| Sticker Creator |                Feature           |
+| :-----------: | :--------------------------------: |
+|       ✅       | Send Photo with Caption          |
+|       ✅       | Reply A Photo                    |
+|       ✅       | Reply A Video or GIF             |
+|       ✅       | Send Video or GIF with Caption   |
+|       ✅       | Reply A Sticker ( sticker to image ) |
+
+| Other  |                     Feature                     |
+| :------------: | :---------------------------------------------: |
+|       ✅        |   Get a random meme             |
+|       ✅        |   Text to speech                |
+|       ✅        |   Writing feature 				|
+|       ✅        |   What Anime Is This 			|
+|       ✅        |   Url2Img ( Screeenshot Web )   |
+|       ✅        |   Simsimi		                |
+
+| Group  |                     Feature               |
+| :-----------: | :--------------------------------: |
+|       ✅        |   Tagall/Mentionall member       |
+|       ✅        |   Kick Member Group	             |
+|       ✅        |   Add Member Group	             |
+|       ✅        |   Get List Admins Group          |
+
+| Owner Bot  |                     Feature           |
+| :-----------: | :--------------------------------: |
+|       ✅        |   Set Prefix                     |
+|       ✅        |   Broadcast                      |
+|       ✅        |   Clear All Chats                |
+
+Dan masih banyak lagi,lu cek sendiri aja la tot di file nya
+
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 * [`Donasi Bagas `](GOPAY 081280387069)
 
