@@ -49,6 +49,7 @@ Ket: Aktiv 24 jam
 |       ✅       | Send Photo with Caption          |
 |       ✅       | Reply A Photo                    |
 |       ✅       | Reply A Video or GIF             |
+|       ✅       | Sticker Wm                       |
 |       ✅       | Send Video or GIF with Caption   |
 |       ✅       | Reply A Sticker ( sticker to image ) |
 
