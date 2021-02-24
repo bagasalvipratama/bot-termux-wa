@@ -39,6 +39,7 @@ Script ini di modifikasi sama gua sendiri tot.
 Kalo lo masih kaga ngerti chat gua aja,nomor gua ada di bawah ye
 
 
+
 Ket: Aktiv 24 jam
 
 ## Features
@@ -74,6 +75,7 @@ Ket: Aktiv 24 jam
 |       ✅        |   Clear All Chats                |
 
 Dan masih banyak lagi,lu cek sendiri aja la tot di file nya
+gua capek nulis satu satu bangsat
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 * [`Donasi Bagas `](GOPAY 081280387069)
