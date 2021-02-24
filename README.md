@@ -51,7 +51,7 @@ Ket: Aktiv 24 jam
 |       ✅       | Reply A Video or GIF             |
 |       ✅       | Sticker Wm                       |
 |       ✅       | AntiDelete                       |
-|       ✅       | AntiVitext                       |
+|       ✅       | AntiVirtext                       |
 |       ✅       | AntiLink                         |
 |       ✅       | Send Video or GIF with Caption   |
 |       ✅       | Reply A Sticker ( sticker to image ) |
